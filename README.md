@@ -1,7 +1,7 @@
 # PythonGarden
-Leo's Personal Python Projects
+Leo's Personal Python Projects. Leo的个人Python学习园地。
 
-Leo的个人Python学习园地 (老兵新征程，Pythoneer在路上） 
+##  老兵新征程，Pythoneer在路上 
 
 在这个园地里，准备放一些自己做的或转运的有趣的东西，特别是为小朋友学习python有帮助的项目。 
 
